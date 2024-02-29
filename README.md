@@ -1,1 +1,1 @@
-![Vesper preview](https://i.imgur.com/C07BRPD.png)
+![Vesper preview](https://i.imgur.com/42KdjSV.png)
