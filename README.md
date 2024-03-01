@@ -24,5 +24,5 @@ Peppermint and orange flavored dark theme for Windows Terminal.
 8. Select **Appearance**
 9. Choose *Vesper* in the **Color scheme** drop down menu
 10. Click on **Save**, enjoy!
-
+---
 Based on [Vesper Theme](https://github.com/raunofreiberg/vesper) for VSCode.
