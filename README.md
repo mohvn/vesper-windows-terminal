@@ -1,4 +1,4 @@
-![Vesper preview](https://i.imgur.com/42KdjSV.png)
+![Vesper preview](https://i.imgur.com/eR5yRcL.png)
 
 # Vesper on Windows Terminal
 
