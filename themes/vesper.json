@@ -1,27 +1,27 @@
 {
-  "name": "Vesper",
+            "name": "Vesper",
 
-  "cursorColor": "#aeafad",
-  "selectionBackground": "#323232",
+            "cursorColor": "#AEAFAD",
+            "selectionBackground": "#323232",
 
-  "background": "#101010",
-  "foreground": "#FFFFFF",
+            "background": "#101010",
+            "foreground": "#FFFFFF",
 
-  "black": "#101010",
-  "red": "#FF8080",
-  "green": "#565656",
-  "yellow": "#FFC799",
-  "blue": "#008080",
-  "purple": "#FFC799",
-  "cyan": "#94FFE4",
-  "white": "#FFFFFF",
+            "black": "#101010",
+            "red": "#f5a191",
+            "green": "#8fb99f",
+            "yellow": "#e6b99d",
+            "blue": "#aca1ce",
+            "purple": "#e29eca",
+            "cyan": "#ffffff",
+            "white": "#a0a0a0",
 
-  "brightBlack": "#585858",
-  "brightRed": "#FF8080",
-  "brightGreen": "#565656",
-  "brightYellow": "#FFC799",
-  "brightBlue": "#94FFE4",
-  "brightPurple": "#FFC799",
-  "brightCyan": "#94FFE4",
-  "brightWhite": "#FFFFFF"
+            "brightBlack": "#282828",
+            "brightRed": "#ff8080",
+            "brightGreen": "#99ffe4",
+            "brightYellow": "#ffc799",
+            "brightBlue": "#b9aeda",
+            "brightPurple": "#ecaad6",
+            "brightCyan": "#a0a0a0",
+            "brightWhite": "#FFFFFF"
 }
