@@ -1,0 +1,22 @@
+{
+            "name": "Vesper",
+            "tab": 
+            {
+                "background": "#202020FF",
+                "showCloseButton": "always",
+                "unfocusedBackground": null
+            },
+            "tabRow": 
+            {
+                "background": "#101010FF",
+                "unfocusedBackground": "#101010FF"
+            },
+            "window": 
+            {
+                "applicationTheme": "dark",
+                "experimental.rainbowFrame": false,
+                "frame": null,
+                "unfocusedFrame": null,
+                "useMica": false
+            }
+        }
